@@ -56,7 +56,7 @@ Quiz-App/
 
 ### 🏠 Home Screen
 
-![Home Screen](<img width="1710" height="1107" alt="home" src="https://github.com/user-attachments/assets/0cc1dd00-ccb4-4c2f-ac44-5ee27c28c36e" />)
+![Home Screen](https://github.com/gogabhavyasree/Interactive-Quiz-App/blob/main/home.png?raw=true)
 ---
 
 ### ❓ Quiz Question Screen
