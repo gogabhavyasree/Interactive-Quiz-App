@@ -61,8 +61,7 @@ Quiz-App/
 
 ### ❓ Quiz Question Screen
 
-![Quiz Question](<img width="1710" height="1107" alt="question" src="https://github.com/user-attachments/assets/6295c03d-fbbb-47d1-9967-55f4eb999e42" />
-)
+![Quiz Question](https://github.com/gogabhavyasree/Interactive-Quiz-App/blob/main/question.png?raw=true)
 
 ---
 
