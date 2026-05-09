@@ -67,8 +67,7 @@ Quiz-App/
 
 ### 🎉 Result Screen
 
-![Result Screen](<img width="1710" height="1107" alt="result" src="https://github.com/user-attachments/assets/322add55-b9f6-4041-88ba-345fef085d4b" />
-)
+![Result Screen](https://github.com/gogabhavyasree/Interactive-Quiz-App/blob/main/result.png?raw=true)
 
 ---
 
